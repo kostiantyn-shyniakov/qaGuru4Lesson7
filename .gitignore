@@ -1,0 +1,11 @@
+build/
+.gradle/
+.idea/
+out/
+gradle/
+*.ipr
+*.iml
+gradlew
+gradlew.bat
+/settings.gradle
+/.allure/
